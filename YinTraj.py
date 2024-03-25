@@ -1,12 +1,6 @@
 """
-键盘侠：Lenovo
 创作日：2024年03月24日
 """
-# 这是一个示例 Python 脚本。
-
-# 按 Shift+F10 执行或将其替换为您的代码。
-# 按 双击 Shift 在所有地方搜索类、文件、工具窗口、操作和设置。
-
 import numpy as np
 import cv2 as cv
 import matplotlib.pyplot as plt
@@ -65,7 +59,7 @@ def cnt_area(cnt):
 img_Wid = 528
 img_Hei = 1487
 Hei_adj = 60
-
+#----------------------#
 pixelLen = 8.7  # um/pixel
 filepath = 'D:/Master/Experiment Data/JiayinHeJin1/'
 framesNum = filenum(filepath)
