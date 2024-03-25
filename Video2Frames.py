@@ -1,5 +1,4 @@
 """
-键盘侠：Lenovo
 创作日：2024年03月25日
 """
 import os, os.path
